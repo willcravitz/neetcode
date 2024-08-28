@@ -8,8 +8,8 @@ Python
 Comments:
 Me love python.
 
-Time: O(n)
-Space: O(n)
+Time: O(n) loop through list of nums
+Space: O(n) create a set of max size being list size
 '''
 
 class Solution:
