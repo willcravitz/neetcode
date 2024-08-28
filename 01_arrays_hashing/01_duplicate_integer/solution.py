@@ -1,7 +1,8 @@
 '''
+Arrays & Hashing -> Duplicate Integer
 Neetcode 1.1
 Leetcode 217
-Arrays & Hashing -> Duplicate Integer
+
 Python
 
 Comments:
