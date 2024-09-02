@@ -1,6 +1,6 @@
 /*
 Arrays & Hashing -> Is Anagram
-Neetcode 1.2
+Neetcode 2 / 150
 Leetcode 242
 
 Javascript
@@ -9,7 +9,7 @@ Comments:
 Use object[key] instead of object.key when the key is being determined 
 dynamically. The || operator returns the value of the first operator as long as
 it's truthy, so you can use it for undefined expressions. There's no deep check
-of objects; you have to do that on your own.
+for objects; you have to do that on your own.
 
 Time: O(n) we loop through the strings
 Space: O(1) since counter has at most 26 keys, one for each letter

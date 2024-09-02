@@ -1,6 +1,6 @@
 '''
 Arrays & Hashing -> Is Anagram
-Neetcode 1.2
+Neetcode 2 / 150
 Leetcode 242
 
 Python

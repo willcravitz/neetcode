@@ -1,6 +1,6 @@
 /*
 Arrays & Hashing -> Two Integer Sum
-Neetcode 1.3
+Neetcode 3 / 150
 Leetcode 1
 
 Javascript
