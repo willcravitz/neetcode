@@ -22,7 +22,7 @@ class Solution {
 	 */
 	topKFrequent(nums, k) {
 		const count = new Map();
-		const freq = new Array(nums.length + 1).fill(null).map(() => []);
+		const freq = Array.from({ length: nums.length + 1 }, () => []);
 		for (const n of nums) {
 			count.set(n, 1 + (count.get(n) || 0));
 		}
