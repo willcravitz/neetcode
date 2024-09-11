@@ -1,4 +1,4 @@
-'''
+"""
 Arrays & Hashing -> Top K Frequent Elements
 Neetcode 5 / 150
 Leetcode 347
@@ -12,9 +12,10 @@ this readable.
 
 Time: O(k * logn) logn for the pop, do it k times, linear for everything else
 Space: O(n) dict has max n keys, so heap has max n nodes
-'''
+"""
 
 import heapq
+
 
 class Solution:
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:

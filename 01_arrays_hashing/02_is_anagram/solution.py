@@ -1,4 +1,4 @@
-'''
+"""
 Arrays & Hashing -> Is Anagram
 Neetcode 2 / 150
 Leetcode 242
@@ -12,7 +12,8 @@ get method if the key might not be in the dictionary.
 
 Time: O(n) we loop through the strings
 Space: O(1) since counter has at most 26 keys, one for each letter
-'''
+"""
+
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
