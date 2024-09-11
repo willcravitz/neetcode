@@ -15,4 +15,5 @@
 5. Top K Frequent Elements
 6. String Encode and Decode
 7. Products of Array Except Self
-8. Valid Soduku <---
+8. Valid Soduku
+9. Longest Consecutive Sequence <---
