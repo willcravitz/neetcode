@@ -2,7 +2,7 @@
 
 With [Bon](https://github.com/ethanepiscope/neetcode) and Will
 
-<img src="https://github.com/user-attachments/assets/5d59868e-26a3-47db-abcc-11b7fdde5725" width="250px">
+<img src="https://github.com/user-attachments/assets/5d59868e-26a3-47db-abcc-11b7fdde5725" width="160px">
 
 ## Our Progress
 
