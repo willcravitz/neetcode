@@ -1,5 +1,5 @@
 /*
-Arrays & Hashing -> Valid Palindrome
+Two Pointers -> Valid Palindrome
 Neetcode 10 / 150
 Leetcode 125
 

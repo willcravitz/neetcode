@@ -1,5 +1,5 @@
 """
-Arrays & Hashing -> Two Sum II - Input Array is Sorted
+Two Pointers -> Two Sum II - Input Array is Sorted
 Neetcode 11 / 150
 Leetcode 167
 
