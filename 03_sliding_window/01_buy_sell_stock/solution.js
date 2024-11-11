@@ -3,7 +3,7 @@ Sliding Window -> Best Time to Buy and Sell Stock
 Neetcode 15 / 150
 Leetcode 121
 
-Python
+Javascript
 
 Comments:
 The window starts at the lowest price and ends at the current price. 
